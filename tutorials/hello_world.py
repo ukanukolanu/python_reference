@@ -6,7 +6,7 @@ def find_unique_elements(list_input,sort=True):
     """This method finds the unique elements of a list (or array in PERL), sorts and returns it
     arg list_input:The list from which the unique elements have to be identified. Not optional.
     type list_input:list of integers
-    arg sort: Set to true if the unqiue list has to be sorted. False otherwise.
+    arg sort: Set to true if the unique list has to be sorted. False otherwise.
     type sort: Boolean
     rtype:sorted list of unique elements.
     """
